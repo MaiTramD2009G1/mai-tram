@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Oswald&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.banner{
+	background-image: url("../image/banner3.jpg");
+	background-size: cover;
+	height: 500vh
+}
+.logo {
+	margin-left: 20px !important;
+	
+}
+.title h1{
+	font-size: 100px;
+	text-align: center;
+	padding: 30vh; 
+}
+.decoration{
+	justify-content: center;
+	display: flex 
+}
+.menu a{
+	font-size: 20px;
+}
+.menu{
+	
+}
+h1{
+	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Oswald', sans-serif;
+}
+h2,h3,h4,h5{
+	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	text-align: justify !important;
+}
+.wtc img{
+	width:100%;
+	
+}
+ p{
+	font-size: 20px;
+	text-align: justify !important;
+}
+.trangcon h1{
+	font-size: 50px
+}
+.line{
+	height: 5vh;
+}
+.linee{
+	height: 5vh;
+}
+.footer{
+	height:50vh;
+	
+}
+.footermain a{
+	font-size: 20px
+}
